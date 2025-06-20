@@ -1,1 +1,1 @@
-# Amin-CRM
+# AminCRM
